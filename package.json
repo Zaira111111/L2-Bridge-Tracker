@@ -1,0 +1,10 @@
+{
+  "name": "l2-bridge-tracker",
+  "version": "1.0.0",
+  "description": "Monitor L1-L2 bridge transactions",
+  "main": "scripts/tracker.js",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "dotenv": "^16.0.3"
+  }
+}
